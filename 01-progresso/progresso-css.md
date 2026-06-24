@@ -180,3 +180,5 @@ Resumo no final de cada aula para atualizar o progresso.md
 
 - Prova 3 - HTML + CSS: 9,4/10 - Aprovado com excelência
 - Pontos de atenção: type email nos inputs, min-height em vez de height fixo, @keyframes pulsar começar em scale(1)
+
+-(link da prova final) https://github.com/s-a-m-i-o/prova-final-html-css/tree/main
