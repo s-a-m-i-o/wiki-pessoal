@@ -1,5 +1,8 @@
 O Markdown aceita nativamente várias tags HTML para quando você precisa de um controle fino de layout (como alinhamento ou dimensão de imagens) que a sintaxe tradicional do Markdown não cobre.Abaixo está o resumo com as principais equivalências e recursos de estilização HTML que funcionam muito bem no README.md (especialmente no GitHub, GitLab e Bitbucket)
 
+> [!WARNING]
+> CLIQUE EM CODE PARA VER O CODIGO HTML AQUI
+
 1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo 
     1# Título       <h1>Título</h1>Título
     2## Título      <h2>Título</h2>Título 
