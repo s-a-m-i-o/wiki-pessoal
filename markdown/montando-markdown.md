@@ -35,7 +35,7 @@ Com HTML você controla largura, altura e alinhamento:Centralizar Imagem:
 HTML
 <p align="center">
   <a href="https://s-a-m-i-o.github.io/meu-site/">
-    <img src="./logo1.png" alt="Logo" width="100">
+    <img src="./logo1.png" alt="Logo" width="200">
   </a>
 </p>
 
