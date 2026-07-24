@@ -4,20 +4,20 @@ O Markdown aceita nativamente várias tags HTML para quando você precisa de um 
 -CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML
 ```
 
-<h1 aling="center">1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h1>
+<h2 aling="center">1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h2>
     1# Título       <h1>Título</h1>Título
     2## Título      <h2>Título</h2>Título 
     3### Título     <h3>Título</h3>Título 
     4#### Título    <h4>Título</h4>
 
-<h1 aling="center">2. Formatação de TextoEstilo DesejadoSintaxe MarkdownTag HTML Equivalente</h1>
+<h2 aling="center">2. Formatação de TextoEstilo DesejadoSintaxe MarkdownTag HTML Equivalente</h2>
 Negrito - **texto**   <b>texto</b> ou <strong>texto</strong>
 Itálico - *texto*<i>texto</i> ou <em>texto</em>
 Riscado - ~~texto~~<s>texto</s> ou <strike>texto</strike>
 Sublinhado - (Não tem nativo)<u>texto</u>Texto Menor(Não tem nativo)<small>texto</small>Sobrescrito(Não tem nativo)<sup>texto</sup>Subscrito(Não tem nativo)<sub>texto</sub>
 Quebra de linhaEspaço duplo no fim - <br> ou <br />
 
-3. Centralização e AlinhamentoPara alinhamento, o HTML usa o atributo 
+<h2 aling="center">3. Centralização e AlinhamentoPara alinhamento, o HTML usa o atributo</h2>
 align:Centralizar Texto ou Título:HTML<h1 align="center">Meu Título Centralizado</h1>
 <p align="center">Este parágrafo está centralizado no README.</p>
 
@@ -27,7 +27,7 @@ Alinhar à Direita:HTML
 Justificar Texto:HTML
 <p align="justify">Texto distribuído uniformemente entre as margens.</p>
 
-4. Imagens e Mídias (Controle de Tamanho e Posição)
+<h2 aling="center">4. Imagens e Mídias (Controle de Tamanho e Posição)</h2>
 O Markdown padrão (![alt](url)) não permite alterar o tamanho da imagem.
 Com HTML você controla largura, altura e alinhamento:Centralizar Imagem:
 HTML
@@ -38,7 +38,7 @@ HTML
 Imagem ao lado do texto (Float):HTML<img src="link-da-imagem.png" align="left" width="100">
 Seu texto aqui vai envolver a imagem do lado esquerdo.
 
-5. Blocos Expansíveis (Collapsible / Dropdown)Excelente para esconder detalhes longos, logs de erro ou tutoriais sem poluir o visual principal:
+<h2 aling="center">5. Blocos Expansíveis (Collapsible / Dropdown)Excelente para esconder detalhes longos, logs de erro ou tutoriais sem poluir o visual principal:</h2>
 HTML
 <details>
   <summary>Clique para expandir / ver mais</summary>
@@ -46,7 +46,7 @@ HTML
   Aqui dentro você pode colocar qualquer texto, código ou até Markdown!
 </details>
 
-6. Divisores, Caixas e Detalhes VisuaisLinha Horizontal:
+<h2 aling="center">6. Divisores, Caixas e Detalhes VisuaisLinha Horizontal:</h2>
 Markdown: 
 ---HTML: <hr>Destaque de Código / Teclas:<kbd>Ctrl</kbd> + <kbd>C</kbd> (Gera um visual de tecla do teclado: Ctrl + C).
 
