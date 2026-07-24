@@ -34,10 +34,12 @@ O Markdown padrão (![alt](url)) não permite alterar o tamanho da imagem.
 Com HTML você controla largura, altura e alinhamento:Centralizar Imagem:
 HTML
 <p align="center">
-  <img src="./logo1.png" alt="Logo do meu site" width="300">
+  <a href="https://s-a-m-i-o.github.io/meu-site/">
+    <img src="./logo1.png" alt="Logo" width="100">
+  </a>
 </p>
 
-Imagem ao lado do texto (Float):HTML<img src="link-da-imagem.png" align="left" width="100">
+Imagem ao lado do texto (Float):HTML<img src="./logo1.png" align="left" width="80">
 Seu texto aqui vai envolver a imagem do lado esquerdo.
 
 <h2 align="center">5. Blocos Expansíveis (Collapsible / Dropdown)Excelente para esconder detalhes longos, logs de erro ou tutoriais sem poluir o visual principal:</h2>
