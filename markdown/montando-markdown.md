@@ -1,7 +1,6 @@
 <h1 align="center">Dicas para montar o Markdown</h1>
 ```diff
-- CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML
-```
+- CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML```
 
 O Markdown aceita nativamente várias tags HTML para quando você precisa de um controle fino de layout (como alinhamento ou dimensão de imagens) que a sintaxe tradicional do Markdown não cobre.Abaixo está o resumo com as principais equivalências e recursos de estilização HTML que funcionam muito bem no README.md (especialmente no GitHub, GitLab e Bitbucket)
 
