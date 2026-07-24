@@ -4,13 +4,13 @@ O Markdown aceita nativamente várias tags HTML para quando você precisa de um 
 -CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML
 ```
 
-<h1 aling:center>1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h1>
+<h1 aling="center">1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h1>
     1# Título       <h1>Título</h1>Título
     2## Título      <h2>Título</h2>Título 
     3### Título     <h3>Título</h3>Título 
     4#### Título    <h4>Título</h4>
 
-2. Formatação de TextoEstilo DesejadoSintaxe MarkdownTag HTML Equivalente
+<h1 aling="center">2. Formatação de TextoEstilo DesejadoSintaxe MarkdownTag HTML Equivalente</h1>
 Negrito - **texto**   <b>texto</b> ou <strong>texto</strong>
 Itálico - *texto*<i>texto</i> ou <em>texto</em>
 Riscado - ~~texto~~<s>texto</s> ou <strike>texto</strike>
