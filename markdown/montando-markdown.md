@@ -34,7 +34,7 @@ O Markdown padrão (![alt](url)) não permite alterar o tamanho da imagem.
 Com HTML você controla largura, altura e alinhamento:Centralizar Imagem:
 HTML
 <p align="center">
-  <img src="link-da-imagem.png" alt="Descrição" width="300">
+  <img src="[link-da-imagem.png](https://github.com/s-a-m-i-o/wiki-pessoal/blob/main/markdown/logo1.png)" alt="Logo do meu site" width="300">
 </p>
 
 Imagem ao lado do texto (Float):HTML<img src="link-da-imagem.png" align="left" width="100">
