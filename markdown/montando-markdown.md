@@ -39,7 +39,9 @@ HTML
   </a>
 </p>
 
-Imagem ao lado do texto (Float):HTML<img src="./logo1.png" align="left" width="80">
+Imagem ao lado do texto (Float):
+
+HTML<img src="./logo1.png" align="left" width="80">
 Seu texto aqui vai envolver a imagem do lado esquerdo.
 
 <h2 align="center">5. Blocos Expansíveis (Collapsible / Dropdown)Excelente para esconder detalhes longos, logs de erro ou tutoriais sem poluir o visual principal:</h2>
