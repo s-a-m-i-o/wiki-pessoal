@@ -1,7 +1,7 @@
 O Markdown aceita nativamente várias tags HTML para quando você precisa de um controle fino de layout (como alinhamento ou dimensão de imagens) que a sintaxe tradicional do Markdown não cobre.Abaixo está o resumo com as principais equivalências e recursos de estilização HTML que funcionam muito bem no README.md (especialmente no GitHub, GitLab e Bitbucket)
 
 ```diff
--<h1>CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML</h1>
+-CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML
 ```
 
 1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo 
