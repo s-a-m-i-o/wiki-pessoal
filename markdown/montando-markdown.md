@@ -4,7 +4,7 @@ O Markdown aceita nativamente várias tags HTML para quando você precisa de um 
 -CLIQUE NA ABA "CODE" PARA VER O CODIGO HTML
 ```
 
-<h2 align="center">1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h2>
+<h2 align="center" font color="red">1. Títulos e HierarquiaEstilo DesejadoSintaxe MarkdownTag HTML EquivalenteTítulo</h2>
     1# Título       <h1>Título</h1>Título
     2## Título      <h2>Título</h2>Título 
     3### Título     <h3>Título</h3>Título 
